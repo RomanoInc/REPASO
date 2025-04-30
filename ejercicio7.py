@@ -7,4 +7,3 @@ if licen != "Yes" or casc != "Yes":
 else:
     print("you can drive")
 
-    166666666666666666
